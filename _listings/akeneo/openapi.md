@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Akeneo
 x-complete: 1
@@ -49,4 +48,3 @@ paths:
       - "3"
       - EE
       - Only)
----
